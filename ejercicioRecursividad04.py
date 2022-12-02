@@ -4,3 +4,5 @@ def palabra(pal):
         return pal
     return pal[-1]+palabra(pal[:-1])
 print(palabra("hola"))
+
+#FINALIZADO
