@@ -9,3 +9,4 @@ def maximoLista(lista):
         return siguiente
 lista = [2,9,3,45,17,4]
 print(maximoLista(lista))
+#FINALIZADO

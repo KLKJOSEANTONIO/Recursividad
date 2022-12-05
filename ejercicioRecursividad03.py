@@ -5,3 +5,7 @@ def sumarLista(lista):
     return sumarLista(lista[1:]) + lista[0]
 lista = [1,20,3,4,50]
 print(sumarLista(lista))
+
+
+
+#FInalizado

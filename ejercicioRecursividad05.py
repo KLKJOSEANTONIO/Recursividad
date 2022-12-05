@@ -35,3 +35,6 @@ if comparaLista(lista1,lista2):
     print("SI")
 else:
     print("NO")
+
+
+#FINALIZADO
