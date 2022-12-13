@@ -15,3 +15,4 @@ if contarLista(lista) == suma:
     print("La suma es correcta...")
 else:
     print("La suma NO se corresponde...")
+    print(contarLista(lista))
